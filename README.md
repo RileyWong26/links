@@ -1,4 +1,4 @@
-# Important Links
+# Tech Resources
 This repo serves as a place where I save links I found important and hope can help other people.
 
 ## Table of Contents
